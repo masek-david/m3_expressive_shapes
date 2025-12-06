@@ -229,7 +229,6 @@ class _Generators {
         _PointNRound(Offset(0.500, 0.918), CornerRounding(0.233)),
       ],
       4,
-      mirroring: true,
     );
   }
 
